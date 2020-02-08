@@ -1,0 +1,31 @@
+.btn {
+    float: right;
+}
+
+#btnSave {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    text-align: left;
+}
+
+.form-control {
+    text-align: right;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+.hidden {
+    display: none;
+}

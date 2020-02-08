@@ -1,0 +1,17 @@
+{
+    "name": "session-4",
+    "version": "1.0.0",
+    "description": "Compentency Report FSDI 107",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kullen Carter",
+    "license": "ISC",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "ejs": "^3.0.1",
+      "express": "^4.17.1",
+      "mongoose": "^5.8.10"
+    }
+  }
